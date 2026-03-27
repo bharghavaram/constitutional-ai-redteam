@@ -1,3 +1,5 @@
+> **📅 Project Period:** Oct 2024 – Nov 2024 &nbsp;|&nbsp; **Status:** Completed &nbsp;|&nbsp; **Author:** [Bharghava Ram Vemuri](https://github.com/bharghavaram)
+
 # Constitutional AI Red-Teaming Suite
 
 > Automated adversarial testing, jailbreak detection, bias auditing, and safety scoring for LLMs
