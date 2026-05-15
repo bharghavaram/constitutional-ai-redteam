@@ -16,7 +16,11 @@
 
 ---
 
-## 🎯 Problem Statement
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bharghavaram/constitutional-ai-redteam/main/docs/images/demo.svg" alt="constitutional-ai-redteam demo" width="820"/>
+</div>
+
+--- 🎯 Problem Statement
 
 LLMs deployed in production face constant adversarial attacks — jailbreaks bypass safety training, prompt injections hijack agent tools, and biased responses create legal liability. Most teams deploy LLMs without systematic safety testing. This suite provides automated red-teaming: an Attacker LLM generates adversarial prompts using Tree-of-Attacks-with-Pruning, a Judge LLM evaluates responses for harm, and the system produces a comprehensive safety audit report with CRITICAL/HIGH/MEDIUM/LOW classifications per OWASP LLM Top 10 categories.
 
